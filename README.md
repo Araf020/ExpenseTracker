@@ -8,15 +8,15 @@ To get started with the project, you will need to ensure that you have the .NET 
 
 The main features of the Expenses Tracking application include:
 
-User authentication: You can create an account, login, and securely store your expenses.
+        User authentication: You can create an account, login, and securely store your expenses.
 
-Expense entry: You can input your daily expenses, including the date, amount, and category.
+        Expense entry: You can input your daily expenses, including the date, amount, and category.
 
-Categorization: The application allows you to categorize your expenses by creating custom categories or selecting from pre-defined categories.
+        Categorization: The application allows you to categorize your expenses by creating custom categories or selecting from pre-defined categories.
 
-Reporting: The application generates detailed reports, showing you how much you have spent in each category over a specific period.
+        Reporting: The application generates detailed reports, showing you how much you have spent in each category over a specific period.
 
-Analytics: You can view charts and graphs to help you visualize your expenses and understand your spending patterns.
+        Analytics: You can view charts and graphs to help you visualize your expenses and understand your spending patterns.
 
 We have included comprehensive documentation within the project, which should help you understand the code structure and functionality of each component.
 
